@@ -1,0 +1,31 @@
+body{
+  padding: 50 px;
+}
+
+header{
+  background: magenta;
+  text-align: center;
+  padding: 10px;
+  font-style: normal;
+  margin-top: auto;
+}
+
+Link{
+  text-decoration:none ;
+
+}
+
+p{
+  background-color: white;
+  text-align: center;
+}
+main{
+  height: 450px;
+}
+
+
+footer{
+  background:magenta;
+  text-align: center;
+  padding: 10px;
+}
